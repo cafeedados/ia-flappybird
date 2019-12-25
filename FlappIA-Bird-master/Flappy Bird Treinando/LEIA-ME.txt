@@ -1,0 +1,6 @@
+Ao abrir o jogo o console pedirá para você informar a quantidade da população de pássaros, quanto mais pássaros mais fácil aprender.
+
+Setinhas para cima e para baixo - Aumentam/diminuem a velocidade do jogo todo.
+Espaço - Mostra os inputs
+
+Não esqueça de clicar na janela do jogo para ganhar o ''foco'' da janela e liberar as teclas

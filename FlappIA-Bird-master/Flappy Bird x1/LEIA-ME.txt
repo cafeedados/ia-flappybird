@@ -1,0 +1,12 @@
+Controles:
+
+Espaço - Pula
+Z - Usa paraquedas (apenas depois de 4000 pixels)
+
+Enter -  Reinicia a partida
+X - Paralisa/Desparalisa o movimento dos canos
+
+Setinhas cima/baixo diminuem/aumentam a velocidade do jogo todo.
+
+
+A pasta "src" contém um arquivo chamado "rede", é ele que contém a rede neural treinada... não delete/renomeie esse arquivo.
